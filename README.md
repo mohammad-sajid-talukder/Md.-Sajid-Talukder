@@ -2,18 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira&size=26&duration=3000&pause=5000&color=1F75C6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Md.Sajid+Talukder!" alt="👋 Hi there, I'm Md.Sajid Talukder!" />
 </p> 
 
-🎓 *Biomedical Engineering Graduate | Social Worker | Educator| Gym trainer 
-
-🔬 *Aspiring Biomedical Researcher | Bioinformatics and medical imaging enthusiast
+Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biology and Molecular Oncology  | Social Worker | Educator | Fitness Enthusiast & Gym Trainer
 
 ---
 
 ## 👨‍💻 About Me  
- Biomedical Engineering graduate with a strong interest in biomedical research, bioinformatics, and medical imaging. Beyond academics, I actively contribute as an educator, social worker, and fitness trainer, reflecting a holistic approach to personal and professional growth. My goal is to integrate interdisciplinary skills to drive impactful solutions in science and society.
+ Biomedical Engineering graduate with a strong interest in biomedical research, bioinformatics,Molecular Biology & Molecular Oncology . Beyond academics, I actively contribute as an educator, social worker, and fitness trainer, reflecting a holistic approach to personal and professional growth. My goal is to integrate interdisciplinary skills to drive impactful solutions in science and society.
 - 🎓 *BSc in Biomedical Engineering*, Islamic University,Bangladesh  
-- 💡 *Research Interests:* AI in Healthcare · Medical Imaging · Bioinformatics
-- 🧠 *Currently Learning:* Deep Learning for Medical Imaging, Predictive Analytics, Healthcare Automation  
-- 🌍 *Career Goal:* To become a *Biomedical Researcher* and contribute to innovations at the intersection of healthcare and AI  
+- 💡 *Research Interests:* · Bioinformatics. Molecular Biology & Molecular Oncology, AI in Healthcare  
+- 🧠 *Currently Learning:* Core Molecular Biology Techniques,Analytical Biochemistry Techniques & Next Generation sequencing (NGS)
+- 🌍 *Career Goal:* To become a *Biomedical Researcher* and contribute to innovations at the intersection of healthcare. 
 - 📫 Reach me at: [sajidiubme2029012@gmail.com]  
 
 ---
@@ -30,6 +28,11 @@ Autoclave · Centrifuge · Microscope (Bright Field, Phase Contrast, Fluorescenc
 Aseptic Culture Handling
 
 🔬 Molecular Biology Techniques
+NGS
+
+Sanger sequencing 
+
+Cell Culture ( Pure culture)
 
 ELISA
 
