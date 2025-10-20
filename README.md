@@ -12,7 +12,6 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 - 💡 *Research Interests:* · Bioinformatics. Molecular Biology & Molecular Oncology, AI in Healthcare  
 - 🧠 *Currently Learning:* Core Molecular Biology Techniques,Analytical Biochemistry Techniques & Next Generation sequencing (NGS)
 - 🌍 *Career Goal:To build a research career at the intersection of biomedical engineering and molecular biology, focusing on next-generation sequencing (NGS), bioinformatics, and molecular oncology to explore genetic mechanisms of diseases and develop precision medicine approaches.
-- 📫 Reach me at: [sajidiubme2029012@gmail.com]  
 
 
 🛠 Tech Stack & Laboratory Skills
@@ -53,7 +52,7 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 - **Machine Learning Fundamentals**  
 - **Microsoft Office :** Word · Excel · PowerPoint  
 
-📫 Contact  
+📫 Reach me at:
 
 📧 **Email:** [sajidiubme2029012@gmail.com](mailto:sajidiubme2029012@gmail.com)  
 🌐**LinkedIn: [https://www.linkedin.com/in/mohammad-sajid-talukder](#)  	
@@ -72,8 +71,16 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 	
 	
 	
-## 📊 Featured Projects  
-Natural Products Quercetin and Epigallocatechin Show Cyclin-Dependent Kinase Inhibitory Activity Against Non-Small Cell Lung Cancer: An In Silico Approach.Multi-modal Disease Predictiomage + Voice + Text) using machine learning approach.
+## 📊 Research Article: 
+1.Natural Products Quercetin and Epigallocatechin Show Cyclin-Dependent Kinase Inhibitory Activity Against Non-Small Cell Lung Cancer: An In Silico Approach.
+
+## Featured Projects
+
+1.Multi-modal Disease Predictiomage + Voice + Text) using machine learning approach.
+
+
+
+
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
