@@ -55,7 +55,7 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 
 📫 Contact  
 📧 **Email:** [sajidiubme2029012@gmail.com](mailto:sajidiubme2029012@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/mdsajidtalukder](#)  	
+🌐 **LinkedIn:[https://www.linkedin.com/in/mohammad-sajid-talukder](#)  	
 	
 	
 
