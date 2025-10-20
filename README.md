@@ -13,7 +13,7 @@
 - 🎓 *BSc in Biomedical Engineering*, Islamic University,Bangladesh  
 - 💡 *Research Interests:* AI in Healthcare · Medical Imaging · Bioinformatics
 - 🧠 *Currently Learning:* Deep Learning for Medical Imaging, Predictive Analytics, Healthcare Automation  
-- 🌍 *Career Goal:* To become a *Biomedical Researcher* and contribute to innovations at the intersection of healthcare and AI  
+- 🌍 *Career Goal:To build a research career at the intersection of biomedical engineering and molecular biology, focusing on next-generation sequencing (NGS), bioinformatics, and molecular oncology to explore genetic mechanisms of diseases and develop precision medicine approaches.
 - 📫 Reach me at: [sajidiubme2029012@gmail.com]  
 
 ---
