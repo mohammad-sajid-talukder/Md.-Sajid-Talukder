@@ -11,7 +11,7 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 - 🎓 *BSc in Biomedical Engineering*, Islamic University,Bangladesh  
 - 💡 *Research Interests:* · Bioinformatics. Molecular Biology & Molecular Oncology, AI in Healthcare  
 - 🧠 *Currently Learning:* Core Molecular Biology Techniques,Analytical Biochemistry Techniques & Next Generation sequencing (NGS)
-- 🌍 *Career Goal:* To become a *Biomedical Researcher* and contribute to innovations at the intersection of healthcare. 
+- 🌍 *Career Goal:To build a research career at the intersection of biomedical engineering and molecular biology, focusing on next-generation sequencing (NGS), bioinformatics, and molecular oncology to explore genetic mechanisms of diseases and develop precision medicine approaches.
 - 📫 Reach me at: [sajidiubme2029012@gmail.com]  
 
 ---
