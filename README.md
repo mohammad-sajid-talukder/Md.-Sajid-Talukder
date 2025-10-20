@@ -54,8 +54,9 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 - **Microsoft Office :** Word · Excel · PowerPoint  
 
 📫 Contact  
+
 📧 **Email:** [sajidiubme2029012@gmail.com](mailto:sajidiubme2029012@gmail.com)  
-🌐 **LinkedIn:[https://www.linkedin.com/in/mohammad-sajid-talukder](#)  	
+🌐**LinkedIn: [https://www.linkedin.com/in/mohammad-sajid-talukder](#)  	
 	
 	
 
