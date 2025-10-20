@@ -14,50 +14,48 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 - 🌍 *Career Goal:To build a research career at the intersection of biomedical engineering and molecular biology, focusing on next-generation sequencing (NGS), bioinformatics, and molecular oncology to explore genetic mechanisms of diseases and develop precision medicine approaches.
 - 📫 Reach me at: [sajidiubme2029012@gmail.com]  
 
----
+
 🛠 Tech Stack & Laboratory Skills
 
 🧪 Core Laboratory Skills
+ 
+- Pipetting (Micropipette, Multichannel Pipette)  
+- Sterile Technique (Laminar Flow Hood, Biosafety Cabinet)  
+- Autoclave Operation  
+- Centrifugation & Sample Preparation  
+- Light, Phase Contrast & Fluorescence Microscopy  
+- Aseptic Culture Handling  
 
-Pipetting (Micropipette, Multichannel Pipette)
 
-Sterile Technique (Laminar Flow Hood, Biosafety Cabinet)
 
-Autoclave · Centrifuge · Microscope (Bright Field, Phase Contrast, Fluorescence)
+ 🔬 Molecular Biology Techniques  
+ 
+- **DNA/RNA Extraction & Purification**  
+- **PCR & qPCR (Real-Time PCR)**  
+- **Gel Electrophoresis**  
+- **cDNA Synthesis**  
+- **Sanger Sequencing**  
+- **Cloning & Transformation (E. coli, Yeast)**  
+- **ELISA**  
+- **Cell Culture (Pure Culture)**  
+- **NGS (Next-Generation Sequencing)** – *Learning & Practice*
 
-Aseptic Culture Handling
+  
 
-🔬 Molecular Biology Techniques
-NGS
+ 🔬 Analytical Biochemistry Techniques
+ 
+ -High-Performance Liquid Chromatography (HPLC)
 
-Sanger sequencing 
+ 
+ 💻 Computational & Analytical Skills 
+ 
+- **Python** (Basics for Bioinformatics & Data Analysis)  
+- **Machine Learning Fundamentals**  
+- **Microsoft Office :** Word · Excel · PowerPoint  
 
-Cell Culture ( Pure culture)
-
-ELISA
-
-PCR · qPCR (Real-Time PCR)
-
-Gel Electrophoresis
-
-DNA/RNA Extraction & Purification
-
-Cloning & Transformation (E. coli, Yeast)
-
-💻 Computational Skills
-
-Python
-
-Machine Learning
-
-Microsoft Word
-
-Microsoft Excel
-
-Microsoft PowerPoint
-	
-	
-	
+📫 Contact  
+📧 **Email:** [sajidiubme2029012@gmail.com](mailto:sajidiubme2029012@gmail.com)  
+🌐 **LinkedIn:** [linkedin.com/in/mdsajidtalukder](#)  	
 	
 	
 
@@ -74,7 +72,7 @@ Microsoft PowerPoint
 	
 	
 ## 📊 Featured Projects  
-Natural Products Quercetin and Epigallocatechin Show Cyclin-Dependent Kinase Inhibitory Activity Against Non-Small Cell Lung Cancer: An In Silico Approach.Multi-modal Disease Prediction System (Image + Voice + Text) using machine learning approach.
+Natural Products Quercetin and Epigallocatechin Show Cyclin-Dependent Kinase Inhibitory Activity Against Non-Small Cell Lung Cancer: An In Silico Approach.Multi-modal Disease Predictiomage + Voice + Text) using machine learning approach.
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
