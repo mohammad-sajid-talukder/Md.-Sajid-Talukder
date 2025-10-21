@@ -84,7 +84,7 @@ Biomedical Engineering Student | Passionate about Bioinformatics, Molecular Biol
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github.com/mohammad-sajid-talukder/Md.-Sajid-Talukder)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md.-Sajid-Talukder&layout=compact)  
+![Top Languages](https://github.com/mohammad-sajid-talukder)
 
 ---
 
